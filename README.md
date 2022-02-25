@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Parth8825
-- 👀 I’m interested in coding in c#, Javascript, HTML, and node.js. Mainly, I find more excitment when I spend most of the time buliding a logic which gives awsome output. 
-- 🌱 I’m currently learning C# as a main language in the college.
-- 💞️ I’m looking to collaborate on projects that works on C# and Javascript.
+- 👋 Hi, I’m Parth Darji
+- 👀 I’m interested in coding in c#, HTML, CSS, Javascript, Angular, and node.js. Mainly, I find more excitment when I spend most of the time in coding and creating an applications. 
+- 🌱 I’m currently learning C#, Javascript, and Angular in the Conestoga college, waterloo, ON, Canada.
+- 💞️ I’m looking forward to collaborate on projects with others who have a same interest in C# or Javascript, Angular.
 - 📫 How to reach me ...
 
 <!---
