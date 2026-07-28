@@ -1,18 +1,73 @@
-<h1 align="center">Hi 👋, I'm Parth Darji</h1>
-<h3 align="center">Aspiring Software Developer | Experience building Web applications in ASP.NET, C#, React, and Angular | Full stack developer</h3>
+<div align="center">
+  <!-- Animated Typing Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Parth+Darji+👋;Software+Developer;Building+Web+Apps+with+.NET+%26+React" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=parth8825&label=Profile%20views&color=0e75b6&style=flat" alt="parth8825 views" />
+</div>
 
-<img align="right" alt="coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth8825&label=Profile%20views&color=0e75b6&style=flat" alt="parth8825" /> </p>
+<!-- About Me Section -->
+<div>
+  <a href="https://parthsportfolio.netlify.app/" target="_blank">
+    <img align="right" width="380" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" style="border-radius: 10px; margin-left: 20px;" alt="Coding GIF">
+  </a>
 
-- 📫 How to reach me **parthdarji8825@gmail.com**
+  ### 👨‍💻 About Me
+  
+  > **Transforming ideas into robust, scalable web and cloud applications.**
 
-- 📄 Know about my experiences [https://parthsportfolio.netlify.app/](https://parthsportfolio.netlify.app/)
+  - 🚀 **Role:** Software Developer specializing in **C#, ASP.NET, React, Angular, SQL**, and **Cloud technologies**.
+  - 💡 **Focus:** Writing clean architecture, optimizing databases, and building high-performance solutions.
+  - 💼 **Portfolio:** Dive deeper for more information on my **[Personal Website](https://parthsportfolio.netlify.app/)**.
+  - 📫 **Contact:** Let's connect! Email me at **[parthdarji8825@gmail.com](mailto:parthdarji8825@gmail.com)**.
+</div>
 
-<p align="left">
-</p>
+<!-- This ensures the layout clears the floating image before starting the next section -->
+<br clear="both"> 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Modern Skill Icons -->
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,azure,sql,git&theme=dark" alt="Skills" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth8825&show_icons=true&locale=en&layout=compact" alt="parth8825" /></p>
+<br/><br/>
+
+<!-- Native HTML Section -->
+<div align="center">
+  <h3>🎯 Current Focus & Featured Work</h3>
+</div>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Card 1 -->
+    <td width="50%" align="center" style="border: 1px solid #1a1b27; border-radius: 10px; padding: 20px; background-color: #1a1b27;">
+      <h3 style="color: #0e75b6; margin-bottom: 5px;">🌱 Currently Learning</h3>
+      <p style="font-size: 14px; margin-top: 5px;">
+        Diving deeper into <b>Cloud Architecture</b> and building microservices with <b>.NET Core</b> and <b>Azure</b>.
+      </p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" align="center" style="border: 1px solid #1a1b27; border-radius: 10px; padding: 20px; background-color: #1a1b27;">
+      <h3 style="color: #0e75b6; margin-bottom: 5px;">💡 Latest Project</h3>
+      <p style="font-size: 14px; margin-top: 5px;">
+        Developing full-stack web applications using <b>React</b> and <b>C# ASP.NET</b>. <br>
+        <a href="https://parthsportfolio.netlify.app/"><b>View My Portfolio ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Standard, highly reliable GitHub Badges -->
+<div align="center">
+  <a href="https://github.com/parth8825?tab=repositories">
+    <img src="https://img.shields.io/badge/Check_Out_My_Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="My Repositories"/>
+  </a>
+</div>
