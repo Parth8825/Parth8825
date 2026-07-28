@@ -33,7 +33,7 @@
 <!-- Modern Skill Icons -->
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,azure,sql,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,azure,git&theme=dark" alt="Skills" />
 </div>
 
 <br/><br/>
