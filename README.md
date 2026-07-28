@@ -22,7 +22,7 @@
 
   - 🚀 **Role:** Software Developer specializing in **C#, ASP.NET, React, Angular, SQL**, and **Cloud technologies**.
   - 💡 **Focus:** Writing clean architecture, optimizing databases, and building high-performance solutions.
-  - 💼 **Portfolio:** Dive deeper for more information on my **[Personal Website](https://parthsportfolio.netlify.app/)**.
+  - 💼 **Portfolio:** Dive deeper for more information on my **<a href="https://parthsportfolio.netlify.app/" target="_blank">Personal Website</a>**.
   - 📫 **Contact:** Let's connect! Email me at **[parthdarji8825@gmail.com](mailto:parthdarji8825@gmail.com)**.
 </div>
 
